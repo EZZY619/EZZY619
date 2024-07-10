@@ -6,6 +6,28 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that the term "debugging" originated in 1947 when engineers found a moth stuck in a computer? This incident led to the first use of the term to describe fixing computer glitches!
 
+ ### Undergraduate student
+  
+ ### Education
+ #### University of Kigali, Rwanda
+ - Bachelors in Computer Science(BCS) (Inview)
+
+
+ ### Skills
+ - Programming 
+ - Communication skills
+ - Great leadership skills
+ 
+
+ ### Experience
+ - Presented to over 150 audience
+ - Worked on  AI and IoT projects
+ - Worked on a Data Analytics project
+
+
+ ### Projects
+ - Smart Home Automation
+ - Analyzing public opinions about health centers in Rwanda
 
 
 <!---
