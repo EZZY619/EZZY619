@@ -14,9 +14,10 @@
 
 
  ### Skills
- - Programming 
- - Communication skills
- - Great leadership skills
+ - C++ Programming
+ - C Programming 
+ - Data Mining, Analysis, and Visualizations
+ - Web dev using HTML, CSS, and js
  
 
  ### Experience
