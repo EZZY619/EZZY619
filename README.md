@@ -2,11 +2,8 @@
 - 👀 I’m passionate about computing and enjoy working on exciting projects in Data Science, Machine Learning, AI, IoT, and various areas of Computer Science.
 - 🌱 I’m currently pursuing my Computer Science studies, where I'm eager to delve deeper into algorithms, software development, and cutting-edge technologies.
 - 💞️ I’m looking to collaborate on projects that will not only challenge me but also broaden my understanding and expertise in these dynamic fields.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ezekiel-george-507894302). Follow that to connect and discuss potential collaborations or share insights via LinkedIn! and You can email me at: georgeezekiel48@gmail.com
-
-
- ### Undergraduate student
-  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ezekiel-george-507894302). Follow that to connect and discuss potential collaborations or share insights via LinkedIn! or You can [email](georgeezekiel48@gmail.com) me
+ 
 
  ### Skills
  - Python
