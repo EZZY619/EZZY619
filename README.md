@@ -1,29 +1,46 @@
-- 👋 Hi, I’m @Ezekiel
-- 👀 I’m passionate about computing and enjoy working on exciting projects in Data Science, Machine Learning, AI, IoT, and various areas of Computer Science.
-- 🌱 I’m currently pursuing my Computer Science studies, where I'm eager to delve deeper into algorithms, software development, and cutting-edge technologies.
-- 💞️ I’m looking to collaborate on projects that will not only challenge me but also broaden my understanding and expertise in these dynamic fields.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ezekiel-george-507894302). Follow that to connect and discuss potential collaborations or share insights via LinkedIn! Or, You can [email](georgeezekiel48@gmail.com) me
- 
+# 👋 Hi, I’m Ezekiel!
 
- ### Skills
- - Python
- - R Programming
- - C++ Programming
- - C Programming 
- - Data Mining, Analysis, and Visualizations
- - Web dev using HTML, CSS, and JS
- 
+I’m an aspiring **Data Scientist** and **Machine Learning enthusiast** with a passion for **Artificial Intelligence**, **IoT**, and **cutting-edge computing technologies**. I enjoy tackling challenges that blend **data analytics** with innovative solutions.
 
- ### Experience
- - Presented to over 150 audiences
- - Worked on  AI and IoT projects
- - Worked on a Data Analytics project
+- I’m currently deepening my knowledge in **Computer Science**, focusing on **algorithms**, **software development**, and hands-on **ML/AI projects**.  
+- I love to **collaborate** on projects that push boundaries, expand my skills, and help bring impactful technologies to life.
 
+### Reach me:
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ezekiel-george-507894302) for collaborations, insights, and discussions.
+- **Email**: [georgeezekiel48@gmail.com](mailto:georgeezekiel48@gmail.com) for project inquiries, or to discuss exciting ideas!
 
- ### Projects
- - Smart Home Automation
- - Analyzing public opinions about health centers in Rwanda
- - Public sentiment on the Deepseek R1 model
+### 💡 Skills & Expertise:
+- **Programming Languages**: Python, R (certified), C++, C
+- **Data Science & ML**: Data Analysis, Visualization, Machine Learning Algorithms
+- **Web Development**: HTML, CSS, JavaScript (Basic)
+- **Tools**: Jupyter, TensorFlow, Scikit-Learn, Pandas, NumPy
+
+### 🧠 Experience:
+- Presented research and projects to over **150+ audiences**—refining my ability to communicate complex ideas.
+- **AI & IoT Projects**: Worked on building intelligent systems and exploring IoT’s impact on daily life.
+- **Data Analytics Projects**: Gained insights into various datasets to create actionable visualizations and predictions.
+
+### Notable Projects:
+- **Smart Home Automation**: Developed an IoT system for automated home control—enhancing convenience and energy efficiency.
+- **Analyzing Public Opinions about Health Centers in Rwanda**: Used data analytics to understand sentiment and improve healthcare services.
+- **Sentiment Analysis of Deepseek R1 Model**: Analyzed public opinion and market sentiment towards new AI products, using NLP techniques for deeper insights.
+
+---
+
+### What’s Next:
+- I’m always seeking opportunities to work on **innovative projects**, share knowledge, and contribute to tech communities.
+- Open to exploring new tech areas, including **big data**, **cloud computing**, and **advanced machine learning techniques**.
+
+---
+
+### Why You Should Reach Out:
+I believe that learning is most powerful when shared. Whether you're looking for collaboration on a tech project, need help with data analysis, or just want to discuss ideas, feel free to contact me.
+
+---
+
+### Final Thoughts:
+I'm driven by a passion for leveraging technology to solve real-world problems and make an impact. Let’s connect and see how we can create the future of computing together!
+
 
 
 <!---
