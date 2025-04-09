@@ -8,6 +8,7 @@ I’m an aspiring **Data Scientist** and **Machine Learning enthusiast** with a 
 ### Reach me:
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ezekiel-george-507894302) for collaborations, insights, and discussions.
 - **Email**: [georgeezekiel48@gmail.com](mailto:georgeezekiel48@gmail.com) for project inquiries, or to discuss exciting ideas!
+- **X**: You can also connect with me on [x](https://x.com/_EzekielGeorge_) to sahre some ideas or drop some advice!
 
 ### 💡 Skills & Expertise:
 - **Programming Languages**: Python, R (certified), C++, C
