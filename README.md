@@ -14,7 +14,7 @@ I’m an aspiring **Data Scientist** and **Machine Learning enthusiast** with a 
 - **Programming Languages**: Python, R (certified), C++, C
 - **Data Science & ML**: Data Analysis, Visualization, Machine Learning Algorithms
 - **Web Development**: HTML, CSS, JavaScript (Basic)
-- **Tools**: Jupyter, TensorFlow, Scikit-Learn, Pandas, NumPy
+- **Tools**: Jupyter, Tableau, TensorFlow, Scikit-Learn, Pandas, NumPy
 
 ### 🧠 Experience:
 - Presented research and projects to over **150+ audiences**—refining my ability to communicate complex ideas.
