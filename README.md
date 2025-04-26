@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ezekiel!
 
-I’m an aspiring **Data Scientist** and **Machine Learning enthusiast** with a passion for **Artificial Intelligence**, **IoT**, and **cutting-edge computing technologies**. I enjoy tackling challenges that blend **data analytics** with innovative solutions.
+I’m an aspiring **Data Scientist** and **Machine Learning enthusiast**, passionate about **Artificial Intelligence**, **IoT**, and **cutting-edge computing technologies**. I enjoy tackling challenges that blend **data analytics** with innovative solutions.
 
 - I’m currently deepening my knowledge in **Computer Science**, focusing on **algorithms**, **software development**, and hands-on **ML/AI projects**.  
 - I love to **collaborate** on projects that push boundaries, expand my skills, and help bring impactful technologies to life.
@@ -17,7 +17,7 @@ I’m an aspiring **Data Scientist** and **Machine Learning enthusiast** with a 
 - **Tools**: Jupyter, Tableau, TensorFlow, Scikit-Learn, Pandas, NumPy
 
 ### 🧠 Experience:
-- Presented research and projects to over **150+ audiences**—refining my ability to communicate complex ideas.
+- Presented research and projects to over **150+ audiences**, and at conferences, refining my ability to communicate complex ideas.
 - **AI & IoT Projects**: Worked on building intelligent systems and exploring IoT’s impact on daily life.
 - **Data Analytics Projects**: Gained insights into various datasets to create actionable visualizations and predictions.
 
