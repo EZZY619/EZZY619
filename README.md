@@ -62,7 +62,7 @@ NLP-driven sentiment analysis of market reception towards emerging AI products.
 
 ## 📈 Highlights
 - 🎯 Presenter at tech conferences with 150+ audience reach
-- 🔬 Expertise in AI, IoT, and Data Analytics
+- 🔬 Expertise in AI, ML, IoT, and Data Science & Analytics
 - 📚 Continuous learner in advanced ML/AI techniques
 
 ---
