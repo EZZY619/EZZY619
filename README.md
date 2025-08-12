@@ -16,7 +16,7 @@ Passionate **Data Scientist** and **ML Engineer** with a love for AI, IoT, and c
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EZZY619)
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=EZZY619)
   
 </div>
 
