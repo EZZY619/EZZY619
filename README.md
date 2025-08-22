@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Passionate **Data Scientist** and **ML Engineer** with a love for AI, IoT, and cutting-edge tech. Building intelligent systems that make a difference! 
+Passionate **Data Scientist**, **Data Analyst**, and **ML Engineer** with a love for AI, IoT, and cutting-edge tech. Building intelligent systems that make a difference! 
 
 <div align="center">
   
