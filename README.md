@@ -60,6 +60,18 @@ Data analytics project analyzing public sentiment towards healthcare services in
 NLP-driven sentiment analysis of market reception towards emerging AI products.
 </details>
 
+<details>
+<summary>🏡 House Price Prediction (Kaggle)</summary>
+<br>
+🔹 Built **predictive models** using <b>Linear Regression</b> and advanced ML techniques to accurately forecast real estate prices.  
+</details>
+
+<details>
+<summary>🚢 Titanic Survival Prediction (Kaggle)</summary>
+<br>
+🔹 Applied **feature engineering** and classification models to predict passenger survival outcomes with high accuracy.  
+</details>
+
 ## 📈 Highlights
 - 🎯 Presenter at tech conferences with 150+ audience reach
 - 🔬 Expertise in AI, ML, IoT, and Data Science & Analytics
