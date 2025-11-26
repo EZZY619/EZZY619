@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Practitioner;Data+Analyst+%7C+IoT+Enthusiast;Building+Smart+%26+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Practitioner;Data+Analyst+%7C+IoT+Enthusiast;Building+Smart+%26+Data-Driven+Solutions" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,17 +16,16 @@
 
 ## 🚀 About Me
 
-I work at the intersection of **Machine Learning**, **Data Analysis**, and **IoT**, designing data-driven systems and building practical solutions to real-world problems.  
-Focused on ML fundamentals, structured modeling workflows, and delivering insights through clean, interpretable analysis.
+I exist at the intersection of **Hardware (IoT)** and **Intelligence (AI)**.  
+While others stop at data analysis, I build the systems that collect the data *and* the models that learn from it. My goal is to engineer scalable, intelligent solutions that solve real challenges in Rwanda and beyond.
 
 ---
 
-## 🎯 What I’m Focused On
-- 🧠 Improving ML modeling and evaluation strategies
-- 📊 NLP sentiment analysis projects (e.g., DeepSeek R1)
-- 📚 Spaced repetition for long-term DS/ML mastery
-- 🛠️ Building deployable, end-to-end data solutions
-- 🏠 IoT + AI systems with real-world utility
+## 💡 My Data Philosophy
+
+| 🌍 **Context is King** | 🤖 **Beyond the Model** | 🤝 **Community First** |
+|:---:|:---:|:---:|
+| Data without context is just noise. I focus on domain-specific insights (Healthcare, Housing, Energy) to drive **actual impact**. | High accuracy means nothing if it can't be deployed. I build **end-to-end pipelines**, not just Jupyter Notebooks. | Knowledge grows when shared. I actively **mentor 150+** peers and speak at tech events to democratize AI. |
 
 ---
 
@@ -34,28 +33,10 @@ Focused on ML fundamentals, structured modeling workflows, and delivering insigh
 
 <div align="center">
 
-### 🧠 **Languages & Libraries**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<br>
-
-### 📊 **Data & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37820?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<br>
-
-### 🧰 **Tools**
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+| **Core & Logic** | **Data & Viz** | **Tools & Platforms** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
 
 </div>
 
@@ -63,14 +44,22 @@ Focused on ML fundamentals, structured modeling workflows, and delivering insigh
 
 ## 📊 GitHub Insights
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EZZY619&theme=tokyonight&hide_border=true" width="480" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=EZZY619&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="480" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZZY619&layout=compact&theme=tokyonight&hide_border=true&card_width=480" width="480" alt="Top Languages" />
-
+<div align="center"> 
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=EZZY619&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=EZZY619&theme=tokyonight&hide_border=true" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZZY619&layout=compact&theme=tokyonight&hide_border=true&card_width=600" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -78,51 +67,39 @@ Focused on ML fundamentals, structured modeling workflows, and delivering insigh
 ## 🏆 Featured Projects
 
 <details>
-<summary><b>🎓 Student Dropout Risk Prediction</b></summary>
+<summary><b>🎓 Student Dropout Prediction (EduTech)</b></summary>
 <br>
-Machine learning system predicting dropout probabilities using structured features, robust evaluation, and explainability tools.
+A proactive ML system designed to identify at-risk students early.
+<ul>
+ <li><b>Tech:</b> Scikit-Learn, Pandas, Explainable AI (SHAP).</li>
+ <li><b>Impact:</b> Enables educators to intervene <i>before</i> dropouts occur.</li>
+</ul>
 </details>
 
 <details>
-<summary><b>🗣️ Sentiment Analysis (Health, Tourism, DeepSeek R1)</b></summary>
+<summary><b>🤖 DeepSeek R1 Market Analysis</b></summary>
 <br>
-Text preprocessing → modeling → insights for public sentiment across multiple domains.
+Leveraging Large Language Models (LLMs) to decode market sentiment.
+<ul>
+ <li><b>Tech:</b> NLP, Transformers, DeepSeek API.</li>
+ <li><b>Focus:</b> Moving beyond simple polarity to understand complex user intent.</li>
+</ul>
 </details>
 
 <details>
-<summary><b>🏠 IoT Smart Home Automation</b></summary>
+<summary><b>🏠 IoT Smart Energy System</b></summary>
 <br>
-Efficient IoT-based home automation system for smart control and monitoring.
+Full-stack IoT solution for home automation.
+<ul>
+ <li><b>Tech:</b> C++, Microcontrollers (ESP32), Sensors.</li>
+ <li><b>Impact:</b> Real-time energy monitoring and automated efficiency control.</li>
+</ul>
 </details>
-
-<details>
-<summary><b>🏡 House Price Prediction (Kaggle)</b></summary>
-<br>
-Regression modeling with feature engineering on structured tabular data.
-</details>
-
-<details>
-<summary><b>🚢 Titanic Survival Prediction</b></summary>
-<br>
-Binary classification exploring demographic and socio-economic survival patterns.
-</details>
-
----
-
-## 📈 Highlights
-- 🎤 Presented at tech events with audiences of **150+**
-- 🤝 Contributor in the **AI & IoT Innovation Hub**
-- 📉 Strong focus on **ML fundamentals**, EDA, and tabular modeling
-- 🌍 Passion for AI applications that solve local problems in Africa
 
 ---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EZZY619&color=blueviolet&style=flat-square&label=Profile+Views)
-<br>
-<a href="https://github.com/EZZY619">
-  <img src="https://img.shields.io/github/followers/EZZY619?label=Follow&style=social" />
-</a>
 
 </div>
