@@ -50,7 +50,7 @@ I am a **Data Scientist** and **IoT Developer** bridging the gap between hardwar
 <br>
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=EZZY619&theme=tokyonight&hide_border=true&card_width=800" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=EZZY619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats" />
 
 </div>
 
