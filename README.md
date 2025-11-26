@@ -41,15 +41,16 @@ I am a **Data Scientist** and **IoT Developer** bridging the gap between hardwar
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=EZZY619&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EZZY619&bg_color=1a1b27&color=70a5fd&line=4c8eda&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZZY619&layout=compact&theme=tokyonight&hide_border=true&card_width=500" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=EZZY619&theme=tokyonight&hide_border=true&card_width=800" alt="Streak Stats" />
 
 </div>
 
