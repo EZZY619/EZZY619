@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Practitioner;Data+Analyst+%7C+IoT+Enthusiast;Building+Smart+%26+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Transforming+Data+Into+Decisions;Predictive+Analytics+%26+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,41 +16,28 @@
 
 ## 🚀 About Me
 
-I am a **Data Scientist** and **IoT Developer** bridging the gap between hardware sensors and intelligent algorithms. My work focuses on building scalable machine learning pipelines and real-time data monitoring systems that solve tangible problems in healthcare, energy, and education.
+I am a **Data Scientist** focused on the "Science" part of data.  
+My expertise lies in building robust **Machine Learning pipelines**, performing deep **exploratory analysis**, and deploying models that solve actual business problems. I don't just run code; I translate complex datasets into clear, actionable strategies.
 
 ---
 
-## 🎯 Technical Focus
-
-* **Machine Learning Engineering:** Developing and deploying predictive models using Python (Scikit-Learn, TensorFlow) with a focus on reproducibility and accuracy.
-* **IoT & Edge Computing:** Designing end-to-end systems that capture real-world data via microcontrollers (ESP32/Arduino) and process it for immediate insights.
-* **Advanced Analytics:** Transforming complex, raw datasets into clear, actionable intelligence using statistical modeling and visualization tools like Tableau.
-
----
-
-## 💻 Tech Stack
+## 🛠️ The Arsenal
 
 <div align="center">
 
-| **Languages** | **Data & ML Libraries** | **Tools & Platforms** |
+| **Core Languages** | **Machine Learning** | **Data Engineering** |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)<br>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)<br>![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Activity Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EZZY619&bg_color=1a1b27&color=70a5fd&line=4c8eda&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-<br>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=EZZY619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EZZY619&bg_color=0d1117&color=4C8EDA&line=4c8eda&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -63,28 +50,28 @@ I am a **Data Scientist** and **IoT Developer** bridging the gap between hardwar
 <br>
 A proactive ML system designed to identify at-risk students early.
 <ul>
- <li><b>Stack:</b> Python, Scikit-Learn, SHAP (Explainability).</li>
- <li><b>Outcome:</b> Provides actionable risk scores to educators to prevent dropout.</li>
+ <li><b>Focus:</b> Classification, Feature Engineering, SHAP (Explainability).</li>
+ <li><b>Outcome:</b> Identifies risk factors to help educators intervene early.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>🤖 DeepSeek R1 Market Analysis</b></summary>
+<summary><b>🗣️ DeepSeek R1 Sentiment Analysis</b></summary>
 <br>
-Leveraging Large Language Models to analyze market reception.
+Leveraging Large Language Models to decode market reception.
 <ul>
- <li><b>Stack:</b> NLP, DeepSeek API, Sentiment Analysis.</li>
- <li><b>Outcome:</b> Decodes complex user intent beyond simple positive/negative polarity.</li>
+ <li><b>Focus:</b> NLP, Transformers, API Integration.</li>
+ <li><b>Outcome:</b> Moves beyond basic polarity to understand complex user intent.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>🏠 IoT Smart Energy System</b></summary>
+<summary><b>🏡 House Price Forecasting (Kaggle)</b></summary>
 <br>
-Full-stack IoT solution for home automation and monitoring.
+Advanced regression modeling on structured real estate data.
 <ul>
- <li><b>Stack:</b> C++, ESP32, Cloud Database.</li>
- <li><b>Outcome:</b> Enables real-time energy tracking and automated device control.</li>
+ <li><b>Focus:</b> Regression, Data Cleaning, Model Stacking.</li>
+ <li><b>Outcome:</b> High-accuracy price predictions based on granular features.</li>
 </ul>
 </details>
 
