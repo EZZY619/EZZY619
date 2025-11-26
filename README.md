@@ -1,91 +1,128 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%F0%9F%93%8A;Data+Analyst+%F0%9F%93%88;ML+Enthusiast+%F0%9F%A4%96;AI+Developer+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Practitioner;Data+Analyst+%7C+IoT+Enthusiast;Building+Smart+%26+Data-Driven+Solutions" alt="Typing SVG" />
 </div>
+
+<br>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezekiel-george-507894302)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/_EzekielGeorge_)
-  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:georgeezekiel48@gmail.com)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezekiel-george-507894302)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_EzekielGeorge_)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgeezekiel48@gmail.com)
+
 </div>
 
-## 🚀 About Me!
+---
 
-Passionate **Data Scientist**, **Data Analyst**, and **ML Engineer** with a love for AI, IoT, and cutting-edge tech. Building intelligent systems that make a difference! 
+## 🚀 About Me
 
-<div align="center">
-  
- ![GitHub Streak](https://streak-stats.demolab.com/?user=EZZY619)
-  
-</div>
+I work at the intersection of **Machine Learning**, **Data Analysis**, and **IoT**, designing data-driven systems and building practical solutions to real-world problems.  
+Focused on ML fundamentals, structured modeling workflows, and delivering insights through clean, interpretable analysis.
+
+---
+
+## 🎯 What I’m Focused On
+- 🧠 Improving ML modeling and evaluation strategies
+- 📊 NLP sentiment analysis projects (e.g., DeepSeek R1)
+- 📚 Spaced repetition for long-term DS/ML mastery
+- 🛠️ Building deployable, end-to-end data solutions
+- 🏠 IoT + AI systems with real-world utility
+
+---
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-
-## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=EZZY619&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EZZY619&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-  
+
+### 🧠 **Languages & Libraries**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<br>
+
+### 📊 **Data & Visualization**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37820?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br>
+
+### 🧰 **Tools**
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 </div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=EZZY619&theme=tokyonight&hide_border=true" width="480" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=EZZY619&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="480" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZZY619&layout=compact&theme=tokyonight&hide_border=true&card_width=480" width="480" alt="Top Languages" />
+
+</div>
+
+---
 
 ## 🏆 Featured Projects
 
 <details>
-<summary>🏠 Smart Home Automation</summary>
+<summary><b>🎓 Student Dropout Risk Prediction</b></summary>
 <br>
-IoT-based system for automated home control, focusing on energy efficiency and user convenience.
+Machine learning system predicting dropout probabilities using structured features, robust evaluation, and explainability tools.
 </details>
 
 <details>
-<summary>🏥 Health Centers Analysis (Rwanda)</summary>
+<summary><b>🗣️ Sentiment Analysis (Health, Tourism, DeepSeek R1)</b></summary>
 <br>
-Data analytics project analyzing public sentiment towards healthcare services in Rwanda.
+Text preprocessing → modeling → insights for public sentiment across multiple domains.
 </details>
 
 <details>
-<summary>🤖 Deepseek R1 Model Analysis</summary>
+<summary><b>🏠 IoT Smart Home Automation</b></summary>
 <br>
-NLP-driven sentiment analysis of market reception towards emerging AI products.
+Efficient IoT-based home automation system for smart control and monitoring.
 </details>
 
 <details>
-<summary>🏡 House Price Prediction (Kaggle)</summary>
+<summary><b>🏡 House Price Prediction (Kaggle)</b></summary>
 <br>
-🔹 Built <b>predictive models</b> using <b>Linear Regression</b> and advanced ML techniques to accurately forecast real estate prices.  
+Regression modeling with feature engineering on structured tabular data.
 </details>
 
 <details>
-<summary>🚢 Titanic Survival Prediction (Kaggle)</summary>
+<summary><b>🚢 Titanic Survival Prediction</b></summary>
 <br>
-🔹 Applied <b>feature engineering</b> and classification models to predict passenger survival outcomes with high accuracy.  
+Binary classification exploring demographic and socio-economic survival patterns.
 </details>
+
+---
 
 ## 📈 Highlights
-- 🎯 Presenter at tech conferences with 150+ audience reach
-- 🔬 Expertise in AI, ML, IoT, and Data Science & Analytics
-- 📚 Continuous learner in advanced ML/AI techniques
+- 🎤 Presented at tech events with audiences of **150+**
+- 🤝 Contributor in the **AI & IoT Innovation Hub**
+- 📉 Strong focus on **ML fundamentals**, EDA, and tabular modeling
+- 🌍 Passion for AI applications that solve local problems in Africa
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=EZZY619&color=blueviolet)
-  [![GitHub followers](https://img.shields.io/github/followers/EZZY619?label=Follow&style=social)](https://github.com/EZZY619)
-  
-</div>
 
-<!--
-Pro tip: Add your favorite repositories here as pinned repos!
--->
+![Profile Views](https://komarev.com/ghpvc/?username=EZZY619&color=blueviolet&style=flat-square&label=Profile+Views)
+<br>
+<a href="https://github.com/EZZY619">
+  <img src="https://img.shields.io/github/followers/EZZY619?label=Follow&style=social" />
+</a>
+
+</div>
