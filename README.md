@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Transforming+Data+Into+Decisions;Predictive+Analytics+%26+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ezekiel!+%F0%9F%91%8B;Data+Scientist+%7C+ML+Practitioner;Transforming+Data+Into+Decisions;Predictive+Analytics+%26+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,8 +16,9 @@
 
 ## 🚀 About Me
 
-I am a **Data Scientist** focused on the "Science" part of data.  
-My expertise lies in building robust **Machine Learning pipelines**, performing deep **exploratory analysis**, and deploying models that solve actual business problems. I don't just run code; I translate complex datasets into clear, actionable strategies.
+I am a **Data Scientist** and **Machine Learning Practitioner** dedicated to transforming complex data into clear, actionable intelligence.
+
+My work bridges the gap between theoretical algorithms and real-world deployment. I specialize in building **transparent predictive models** and **robust data pipelines** that solve critical problems in education, market analysis, and resource management.
 
 ---
 
