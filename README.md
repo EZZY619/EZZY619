@@ -18,7 +18,7 @@
 
 I am a **Data Scientist** and **Machine Learning Practitioner** dedicated to transforming complex data into clear, actionable intelligence.
 
-My work bridges the gap between theoretical algorithms and real-world deployment. I specialize in building **transparent predictive models** and **robust data pipelines** that solve critical problems in education, market analysis, and resource management
+My work bridges the gap between theoretical algorithms and real-world deployment. I specialize in building **transparent predictive models** and **robust data pipelines** that solve critical problems in education, market analysis, and resource management.
 
 ---
 
