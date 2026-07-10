@@ -47,8 +47,8 @@ I'm a **Data Scientist**, **Machine Learning Practitioner**, and **AI Builder** 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EZZY619&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4C8EDA&icon_color=4C8EDA&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZZY619&layout=compact&hide_border=true&bg_color=0d1117&title_color=4C8EDA&text_color=c9d1d9" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=EZZY619&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4C8EDA&icon_color=4C8EDA&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EZZY619&layout=compact&hide_border=true&bg_color=0d1117&title_color=4C8EDA&text_color=c9d1d9" alt="Top Languages" />
 
 <br>
 
